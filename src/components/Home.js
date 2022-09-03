@@ -13,7 +13,14 @@ const Home = () => {
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
             Software Developer
           </h2>
-          <p className="text-gray-500 py-4 max-w-md">Text here</p>
+          <p className="text-gray-400 py-4 max-w-md">
+            I am a very enthusiastic individual and love to learn and adapt new
+            technologies in the work I do. I am a very proactive member of the
+            team but also very capable of working by myself if required. I am
+            always looking for ways to improve my ability and broaden my
+            knowledge and experience through external activites as well as
+            professional work.
+          </p>
           <div>
             <Link to={"Portfolio"} smooth={true} duration={500}>
               <button className="text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-blue-900 hover:scale-110 hover:bg-blue-600">

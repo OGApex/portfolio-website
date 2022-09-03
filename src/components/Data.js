@@ -6,6 +6,7 @@ import github from "../assets/github.png";
 import html from "../assets/html.png";
 import js from "../assets/js.png";
 import js2 from "../assets/js2.png";
+import proj from "../assets/proj.png";
 import reactImg from "../assets/react.png";
 import sass from "../assets/sass.png";
 import tailwind from "../assets/tailwind.png";
@@ -77,6 +78,12 @@ export const portfolio = [
     src: cpp,
     text: "Language filter based on banned words",
     href: "https://github.com/OGApex/Code/tree/master/Free%20Time%20Code/Language%20Filter",
+  },
+  {
+    id: 4,
+    src: proj,
+    text: "Personal Portfolio",
+    href: "https://github.com/OGApex/portfolio-website",
   },
 ];
 

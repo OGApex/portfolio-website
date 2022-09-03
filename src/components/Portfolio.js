@@ -20,9 +20,14 @@ const Portfolio = () => {
               <p className="flex justify-center items-center">{text}</p>
               <img src={src} alt="" className="rounded-md h-60 w-fit " />
               <div className="flex items-center justify-center">
-                <button className="w-full px-6 py-3 m-4 duration-200 hover:scale-110">
+                <a
+                  href={href}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="w-full px-6 py-3 m-4 duration-200 hover:scale-110 cursor-pointer text-center"
+                >
                   Code
-                </button>
+                </a>
               </div>
             </div>
           ))}
