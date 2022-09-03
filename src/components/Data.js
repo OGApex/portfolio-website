@@ -2,6 +2,7 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 import cpp from "../assets/C++3.png";
 import css from "../assets/css.png";
+import cypress from "../assets/cypress.webp";
 import github from "../assets/github.png";
 import html from "../assets/html.png";
 import js from "../assets/js.png";
@@ -135,5 +136,11 @@ export const tech = [
     src: sass,
     title: "Sass",
     style: "shadow-pink-400",
+  },
+  {
+    id: 10,
+    src: cypress,
+    title: "Cypress.io",
+    style: "shadow-lime-400",
   },
 ];
