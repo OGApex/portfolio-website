@@ -18,7 +18,7 @@ const Home = () => {
             technologies in the work I do. I am a very proactive member of the
             team but also very capable of working by myself if required. I am
             always looking for ways to improve my ability and broaden my
-            knowledge and experience through external activites as well as
+            knowledge and experience through external activities as well as
             professional work.
           </p>
           <div>
